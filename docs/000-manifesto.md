@@ -40,7 +40,13 @@ The goal is not to democratize expertise.
 
 The goal is to democratize access to expertise.
 
-Stewardship performed anywhere should be easier to discover, reconcile, reuse, and improve everywhere.
+Stewardship performed anywhere should be easier to discover, reconcile, reuse, improve, and share.
+
+Stewardship should not be limited to a one-way flow from institutions to consumers.
+
+Institutions, experts, publishers, repositories, open knowledge projects, and individuals should all be able to contribute evidence, corrections, relationships, and insight.
+
+Stewardship should become easier to share, reuse, and improve across the broader ecosystem.
 
 Stewardship should compound rather than fragment.
 
@@ -53,6 +59,10 @@ Knowledge evolves.
 Stewardship improves.
 
 Identity endures.
+
+Identity is not the goal.
+
+Identity is the foundation that allows stewardship to accumulate, collaborate, and compound.
 
 ## Standing on the Shoulders of Giants
 
@@ -80,6 +90,8 @@ Trust is earned through evidence, provenance, discussion, and stewardship.
 ## Success
 
 OWG succeeds when stewardship performed in one place can benefit everyone.
+
+OWG succeeds when stewardship becomes easier to share, reuse, and improve across the broader ecosystem.
 
 OWG succeeds when improving knowledge in one place benefits everyone.
 
