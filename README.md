@@ -19,6 +19,18 @@
 >
 > The purpose of this phase is to expose ideas to criticism early enough that they can improve.
 
+## Contents
+
+- [The Problem](#the-problem)
+- [Why This Matters](#why-this-matters)
+- [What Is Open Work Graph?](#what-is-open-work-graph)
+- [Why Not ISBN, DOI, Open Library, or Wikidata?](#why-not-isbn-doi-open-library-or-wikidata)
+- [Why Identity Comes First](#why-identity-comes-first)
+- [OWG Architecture](#owg-architecture)
+- [Where To Go Next](#where-to-go-next)
+- [Repository Guide](#repository-guide)
+- [Status](#status)
+
 ## The Problem
 
 Knowledge about intellectual works exists across many systems.
