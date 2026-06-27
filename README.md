@@ -10,14 +10,14 @@ Everything else is built on top.
 
 ---
 
-## Start Here
+## Recommended Reading Order
 
-If you are new to the project, read these first:
-
-- `docs/001-vision.md`
-- `docs/004-project-brief.md`
-
-These documents explain the problem OWG is trying to solve and the overall direction of the project.
+1. [Vision](docs/001-vision.md)
+2. [Project Brief](docs/004-project-brief.md)
+3. [Principles](docs/003-principles.md)
+4. [Identifier Specification](docs/010-identifier-spec.md)
+5. [Reconciliation](docs/040-reconciliation.md)
+6. [Governance](docs/030-governance.md)
 
 ---
 
@@ -25,28 +25,28 @@ These documents explain the problem OWG is trying to solve and the overall direc
 
 ### Philosophy
 
-- `docs/000-manifesto.md`
-- `docs/002-non-goals.md`
-- `docs/003-principles.md`
+- [Manifesto](docs/000-manifesto.md)
+- [Non-Goals](docs/002-non-goals.md)
+- [Principles](docs/003-principles.md)
 
 ### Identity
 
-- `docs/010-identifier-spec.md`
-- `docs/020-lrm-and-ontology.md`
-- `docs/021-library-science-consumption.md`
+- [Identifier Specification](docs/010-identifier-spec.md)
+- [LRM and Ontology](docs/020-lrm-and-ontology.md)
+- [Library Science Consumption](docs/021-library-science-consumption.md)
 
 ### Reconciliation
 
-- `docs/040-reconciliation.md`
+- [Reconciliation](docs/040-reconciliation.md)
 
 ### Governance and Trust
 
-- `docs/030-governance.md`
-- `docs/031-trust-and-stewardship.md`
+- [Governance](docs/030-governance.md)
+- [Trust and Stewardship](docs/031-trust-and-stewardship.md)
 
 ### Collections and Holdings
 
-- `docs/050-local-items.md`
+- [Local Items and Item Servers](docs/050-local-items.md)
 
 ---
 
@@ -85,9 +85,9 @@ Item Servers connect physical and digital holdings to shared OWG identity.
 
 ## Architectural Decisions
 
-- `docs/decisions/ADR-0001-id-is-the-product.md`
-- `docs/decisions/ADR-0002-lrm-owns-meaning-owg-owns-identity.md`
-- `docs/decisions/ADR-0003-identifiers-are-separate-from-resolvers.md`
+- [ADR-0001: ID is the Product](docs/decisions/ADR-0001-id-is-the-product.md)
+- [ADR-0002: LRM Owns Meaning, OWG Owns Identity](docs/decisions/ADR-0002-lrm-owns-meaning-owg-owns-identity.md)
+- [ADR-0003: Identifiers Are Separate From Resolvers](docs/decisions/ADR-0003-identifiers-are-separate-from-resolvers.md)
 
 ---
 
