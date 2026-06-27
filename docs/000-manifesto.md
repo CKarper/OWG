@@ -32,9 +32,7 @@ We believe stewardship should compound.
 
 Work performed in one place should be able to benefit many others. A correction made by a librarian should not be trapped within a single catalog. A relationship discovered by a researcher should not remain confined to a single repository. A contribution made by an individual should not have to remain isolated within a personal collection.
 
-The goal is not to democratize expertise.
-
-The goal is to democratize participation in expertise.
+Good stewardship should be easier to participate in than to recreate.
 
 People should be able to benefit from existing stewardship. They should also be able to contribute back to it.
 
