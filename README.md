@@ -19,7 +19,7 @@
 >
 > The purpose of this phase is to expose ideas to criticism early enough that they can improve.
 
-## The Gap
+## The Problem
 
 Knowledge about intellectual works exists across many systems.
 
@@ -117,27 +117,33 @@ The primary product of OWG is identity.
 
 Everything else is built on top.
 
-## The Three OWG Products
+## OWG Architecture
 
-### 1. OWG IDs
+OWG consists of three primary components.
+
+Together, these components provide an open identity and reconciliation layer for intellectual works and related entities.
+
+### OWG IDs
 
 Durable identifiers for Works, Expressions, Manifestations, Agents, Subjects, and locally managed Items.
 
 The identifier is the stable integration point.
 
-### 2. Public Resolver
+### Public Resolver
 
 The canonical publication point for OWG reconciliation outcomes.
 
 The resolver publishes mappings, provenance, relationships, and stewardship decisions.
 
-### 3. Item Servers
+### Item Servers
 
 The bridge between OWG identity and real-world collections.
 
-Item Servers connect physical and digital holdings to shared OWG identity.
+Item Servers connect physical and digital holdings to shared OWG identity while preserving local authority over collections and holdings.
 
-## Recommended Reading Order
+## Where To Go Next
+
+If the problem described above resonates with you, the following reading order provides the shortest path through the project:
 
 1. Vision
 2. Project Brief
@@ -146,11 +152,49 @@ Item Servers connect physical and digital holdings to shared OWG identity.
 5. Reconciliation
 6. Governance
 
-## Architectural Decisions
+Readers interested in specific areas can also jump directly to the sections below.
 
-- ADR-0001: ID is the Product
-- ADR-0002: LRM Owns Meaning, OWG Owns Identity
-- ADR-0003: Identifiers Are Separate From Resolvers
+## Repository Guide
+
+### Philosophy
+
+Why OWG exists and what it is trying to accomplish.
+
+- Manifesto
+- Non-Goals
+- Principles
+
+### Identity
+
+How OWG models identity and how that relates to existing library science.
+
+- Identifier Specification
+- LRM and Ontology
+
+### Reconciliation
+
+How OWG relates identifiers, assertions, and sources.
+
+- Reconciliation
+
+### Governance and Trust
+
+How OWG intends to steward a durable public namespace.
+
+- Governance
+- Trust and Stewardship
+
+### Collections and Holdings
+
+How local collections participate without centralizing ownership or control.
+
+- Local Items and Item Servers
+
+### Architectural Decisions
+
+Architectural decisions and rationale are maintained separately from the overview documentation.
+
+- ADR Index
 
 ## Status
 
