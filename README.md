@@ -18,6 +18,8 @@
 > - Opportunities for interoperability with existing ecosystems.
 >
 > The purpose of this phase is to expose ideas to criticism early enough that they can improve.
+>
+> Feedback and discussion are welcome through [GitHub Discussions](../../discussions).
 
 ## Contents
 
@@ -213,3 +215,5 @@ Architectural decisions and rationale are maintained separately from the overvie
 OWG is currently in the design and stewardship phase.
 
 The project is focused on defining durable identity, governance, reconciliation, and interoperability before implementation.
+
+Feedback, criticism, and related work are actively being collected through [GitHub Discussions](../../discussions).
