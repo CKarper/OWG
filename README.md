@@ -35,9 +35,13 @@
 
 ## The Problem
 
-Knowledge about intellectual works exists across many systems.
+The world does not lack knowledge about intellectual works.
 
-A single work may be represented in:
+Libraries, publishers, archives, repositories, researchers, metadata specialists, open knowledge projects, and passionate volunteers have spent decades building knowledge about works, editions, authors, subjects, relationships, and history.
+
+The problem is that this stewardship is fragmented across systems built for different audiences and purposes.
+
+A work such as *The Hobbit* may be represented in:
 
 - ISBN registries
 - DOI records
@@ -48,35 +52,31 @@ A single work may be represented in:
 - Institutional repositories
 - Personal collections
 
-Each system serves a different audience and solves a different problem.
+Each source may contain valuable knowledge.
 
-As a result, the same reconciliation work is performed repeatedly across the ecosystem.
+But that knowledge is difficult to connect, reconcile, reuse, and improve across system boundaries.
 
-Libraries, publishers, archives, repositories, software systems, and individuals all spend effort answering the same question:
+As a result, the same reconciliation and metadata work is often performed repeatedly by different organizations and individuals.
 
-> Are these systems talking about the same thing?
+A collection such as Chris's Library should be able to benefit from stewardship already performed by institutions such as the New York Public Library (NYPL), publishers, archives, repositories, and open knowledge communities.
 
-The expertise to answer that question already exists.
+There is already a tremendous amount of stewardship in the world, but much of that stewardship exists within systems designed for different audiences, purposes, and authority models.
 
-The challenge is that the work is distributed across many institutions, communities, and software systems.
+OWG explores whether a shared identity and reconciliation layer could make that stewardship easier to discover, connect, and reuse across the broader ecosystem.
 
-There is no widely adopted shared reconciliation layer for intellectual works.
+The goal is not to replace existing systems or democratize expertise.
 
-OWG exists to help fill that gap.
+The goal is to make existing expertise easier to discover, reconcile, reuse, and build upon.
 
 ## Why This Matters
 
-Imagine building a catalog, repository, ebook library, discovery system, metadata service, or collection platform.
+Before metadata can be shared, corrected, enriched, or reused, systems must first determine whether they are describing the same Work, Expression, Manifestation, Agent, or Subject.
 
-Before metadata can be improved, shared, corrected, or reused, the system must first determine whether records from different sources describe the same Work, Expression, Manifestation, Agent, or Subject.
+Identity and reconciliation make stewardship reusable.
 
-That reconciliation work is often repeated independently by many organizations and individuals.
+Without a shared identity layer, valuable knowledge remains difficult to connect across catalogs, repositories, publishers, archives, discovery systems, and personal collections.
 
-OWG exists to make reconciliation reusable.
-
-The goal is not to replace existing systems.
-
-The goal is to help them interoperate.
+OWG exists to help make stewardship performed in one place more useful everywhere.
 
 ## What Is Open Work Graph?
 
