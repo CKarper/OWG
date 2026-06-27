@@ -22,6 +22,28 @@ A shared namespace.
 
 A place where works can be identified, reconciled, discussed, and improved in the open.
 
+## Stewardship Should Compound
+
+The world does not lack expertise.
+
+Libraries, publishers, archives, repositories, researchers, metadata specialists, and passionate volunteers have spent decades building knowledge about intellectual works and their relationships.
+
+The problem is that this stewardship is often fragmented across institutions, systems, and communities.
+
+As a result, the same reconciliation work is repeatedly performed by different people in different places.
+
+OWG does not seek to replace existing stewards.
+
+OWG seeks to help connect them.
+
+The goal is not to democratize expertise.
+
+The goal is to democratize access to expertise.
+
+Stewardship performed anywhere should be easier to discover, reconcile, reuse, and improve everywhere.
+
+Stewardship should compound rather than fragment.
+
 ## Identity First
 
 The primary product of Open Work Graph is identity.
@@ -56,6 +78,8 @@ OWG publishes transparent outcomes.
 Trust is earned through evidence, provenance, discussion, and stewardship.
 
 ## Success
+
+OWG succeeds when stewardship performed in one place can benefit everyone.
 
 OWG succeeds when improving knowledge in one place benefits everyone.
 
