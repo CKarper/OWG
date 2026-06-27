@@ -4,17 +4,23 @@
 
 Open Work Graph (OWG) is an open identity and reconciliation layer for intellectual works and related entities.
 
-OWG exists to help libraries, publishers, archives, repositories, software systems, and individuals determine when they are talking about the same thing.
+OWG exists to help stewardship performed by libraries, publishers, archives, repositories, software systems, and individuals become easier to discover, reconcile, reuse, and improve.
+
+Shared identity and reconciliation are the mechanisms that make that possible.
 
 OWG is not a bookstore, publisher, ebook reader, catalog replacement, or universal knowledge graph.
 
-OWG is infrastructure for shared identity.
+OWG is infrastructure for shared identity and collaborative stewardship.
 
 ## The Problem
 
-Knowledge about intellectual works is fragmented across many systems.
+The world does not lack knowledge about intellectual works.
 
-The same Work, Expression, Manifestation, Agent, or Subject may appear in:
+Libraries, publishers, archives, repositories, researchers, metadata specialists, open knowledge projects, and passionate volunteers have spent decades building knowledge about works, editions, authors, subjects, relationships, and history.
+
+The problem is that this stewardship is fragmented across systems built for different audiences and purposes.
+
+A work, agent, or subject may appear in:
 
 - ISBN records
 - DOI records
@@ -25,9 +31,25 @@ The same Work, Expression, Manifestation, Agent, or Subject may appear in:
 - Institutional repositories
 - Personal collections
 
-Each system may be useful and authoritative within its own scope, but reconciliation between systems is repeated over and over again.
+Each system may be useful and authoritative within its own scope, but stewardship is difficult to connect, reconcile, reuse, and improve across system boundaries.
 
-That duplicated work makes metadata harder to improve, harder to share, and harder to trust.
+As a result, the same reconciliation and metadata work is often performed repeatedly by different organizations and individuals.
+
+## A Simple Example
+
+Chris's Library contains physical books, ebooks, and audiobooks from multiple sources.
+
+For a work such as *The Hobbit*, valuable metadata may already exist in publisher systems, library catalogs, Wikidata, Open Library, and institutions such as the New York Public Library (NYPL).
+
+Chris should be able to benefit from that stewardship without recreating it.
+
+Likewise, if Chris discovers a typo, a missing relationship, or a bad mapping, that knowledge should not have to remain isolated within a single collection.
+
+The challenge is not creating knowledge.
+
+The challenge is making stewardship easier to discover, reconcile, reuse, and improve across systems.
+
+OWG exists to help make stewardship collaborative.
 
 ## The OWG Approach
 
@@ -81,20 +103,17 @@ OWG also expects to interoperate with existing systems rather than replace them,
 
 ## Why This Matters
 
-Existing systems answer questions such as:
+Existing systems are already performing valuable stewardship.
 
-- What edition is this?
-- Where can I buy this?
-- Which catalog record describes this?
-- Which library owns this?
+OWG explores whether shared identity and reconciliation can make that stewardship easier to connect, reuse, and improve across the broader ecosystem.
 
-OWG answers a different question:
+Identity is the foundation.
 
-> How do we know these systems are talking about the same thing?
-
-By providing durable identity, transparent reconciliation, and interoperable collection infrastructure, OWG can reduce duplicated metadata work and make stewardship more reusable.
+Reusable and collaborative stewardship is the goal.
 
 ## What Success Looks Like
+
+OWG succeeds when stewardship performed in one place can benefit many others.
 
 OWG succeeds when improving knowledge in one place benefits many systems.
 
