@@ -8,6 +8,25 @@ The primary product of OWG is identity.
 
 Everything else is built on top.
 
+> [!NOTE]
+> OWG is an early-stage design effort.
+>
+> The project currently consists of a proposed identity model, reconciliation model, governance model, and collection architecture.
+>
+> Many assumptions remain unvalidated.
+>
+> We are actively seeking feedback from librarians, archivists, publishers, repository operators, metadata specialists, and software developers.
+>
+> In particular, we are interested in:
+>
+> - Existing efforts we may have overlooked.
+> - Incorrect assumptions about library science or stewardship.
+> - Failure modes in governance or authority models.
+> - Areas where existing systems already solve the problem sufficiently.
+> - Opportunities for interoperability with existing ecosystems.
+>
+> The purpose of this phase is to expose ideas to criticism early enough that they can improve.
+
 ---
 
 ## Recommended Reading Order
