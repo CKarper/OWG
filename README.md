@@ -145,12 +145,12 @@ Item Servers connect physical and digital holdings to shared OWG identity while 
 
 If the problem described above resonates with you, the following reading order provides the shortest path through the project:
 
-1. Vision
-2. Project Brief
-3. Principles
-4. Identifier Specification
-5. Reconciliation
-6. Governance
+1. [Vision](docs/001-vision.md)
+2. [Project Brief](docs/004-project-brief.md)
+3. [Principles](docs/003-principles.md)
+4. [Identifier Specification](docs/010-identifier-spec.md)
+5. [Reconciliation](docs/040-reconciliation.md)
+6. [Governance](docs/030-governance.md)
 
 Readers interested in specific areas can also jump directly to the sections below.
 
@@ -160,41 +160,41 @@ Readers interested in specific areas can also jump directly to the sections belo
 
 Why OWG exists and what it is trying to accomplish.
 
-- Manifesto
-- Non-Goals
-- Principles
+- [Manifesto](docs/000-manifesto.md)
+- [Non-Goals](docs/002-non-goals.md)
+- [Principles](docs/003-principles.md)
 
 ### Identity
 
 How OWG models identity and how that relates to existing library science.
 
-- Identifier Specification
-- LRM and Ontology
+- [Identifier Specification](docs/010-identifier-spec.md)
+- [LRM and Ontology](docs/020-lrm-and-ontology.md)
 
 ### Reconciliation
 
 How OWG relates identifiers, assertions, and sources.
 
-- Reconciliation
+- [Reconciliation](docs/040-reconciliation.md)
 
 ### Governance and Trust
 
 How OWG intends to steward a durable public namespace.
 
-- Governance
-- Trust and Stewardship
+- [Governance](docs/030-governance.md)
+- [Trust and Stewardship](docs/031-trust-and-stewardship.md)
 
 ### Collections and Holdings
 
 How local collections participate without centralizing ownership or control.
 
-- Local Items and Item Servers
+- [Local Items and Item Servers](docs/050-local-items.md)
 
 ### Architectural Decisions
 
 Architectural decisions and rationale are maintained separately from the overview documentation.
 
-- ADR Index
+- [ADR Index](docs/decisions/)
 
 ## Status
 
