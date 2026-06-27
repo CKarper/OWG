@@ -2,15 +2,79 @@
 
 ## The Problem
 
-Humanity has cataloged an extraordinary amount of knowledge, but knowledge about intellectual works remains fragmented across publishers, libraries, archives, repositories, and software systems.
+The world does not lack stewardship.
 
-The same work may be identified by ISBNs, DOIs, Wikidata entities, Open Library records, publisher identifiers, and local catalog records.
+For generations, librarians, publishers, archivists, researchers, repository operators, metadata specialists, open knowledge communities, and dedicated volunteers have invested extraordinary effort in understanding intellectual works and the relationships between them. They have built catalogs, standards, authority records, ontologies, repositories, and bodies of knowledge that help humanity preserve, organize, and navigate an ever-growing collection of ideas.
 
-The result is duplication, reconciliation, disagreement, and endless metadata work performed in isolation.
+That work matters.
+
+In many ways, it is one of the quiet foundations of civilization. We rarely notice it when it works well. We simply expect to find a book, discover an author, trace an idea, or follow a thread of knowledge through time.
+
+The challenge is not that this work has not been done.
+
+The challenge is that much of it remains difficult to connect, participate in, and build upon across institutional, commercial, open, and personal systems.
+
+A publisher may know one part of a story. A library another. An archive another still. Open knowledge communities contribute their own perspectives, and individuals often discover details that larger institutions overlook.
+
+None of this knowledge is wasted.
+
+Yet too often it remains separated by technical boundaries, organizational boundaries, and identifiers that were never intended to connect these worlds together.
+
+As a result, people and organizations frequently repeat work that has already been done elsewhere—not because the knowledge is absent, but because participation in that broader body of stewardship remains difficult.
+
+The problem is not a lack of expertise.
+
+The problem is that stewardship remains harder to participate in than it should be.
+
+## Stewardship Should Compound
+
+We believe stewardship should compound.
+
+Work performed in one place should be able to benefit many others. A correction made by a librarian should not be trapped within a single catalog. A relationship discovered by a researcher should not remain confined to a single repository. A contribution made by an individual should not have to remain isolated within a personal collection.
+
+The goal is not to democratize expertise.
+
+The goal is to democratize participation in expertise.
+
+People should be able to benefit from existing stewardship. They should also be able to contribute back to it.
+
+Libraries, publishers, archives, repositories, open knowledge projects, software systems, and individuals all have something valuable to contribute. The challenge is creating the conditions under which that work can be shared, discussed, challenged, improved, and built upon together.
+
+Stewardship should not be a one-way flow.
+
+It should be a conversation.
 
 ## The Vision
 
-Open Work Graph exists to create a durable, public identity layer for intellectual works.
+Humanity has repeatedly advanced when knowledge became easier to preserve, organize, discover, and share.
+
+Writing allowed knowledge to outlive memory.
+
+Libraries made knowledge navigable.
+
+Classification systems made knowledge discoverable.
+
+The printing press allowed knowledge to travel.
+
+The internet allowed knowledge to reach nearly anyone.
+
+Each step made previous work more useful.
+
+We believe stewardship deserves the same opportunity.
+
+We envision an ecosystem where knowledge about intellectual works becomes easier to connect, discuss, reconcile, and improve regardless of where that knowledge originated.
+
+An ecosystem where institutions and individuals can participate without abandoning the systems they already use.
+
+An ecosystem where contributions can flow in many directions, where expertise remains respected, and where stewardship becomes more collaborative than isolated.
+
+There is a moment in every journey when the next step carries you beyond familiar ground.
+
+> “This is it. If I take one more step, it’ll be the farthest away from home I’ve ever been.”
+>
+> — Samwise Gamgee
+
+Open Work Graph is not a rejection of the systems that came before it. It is an attempt to take one more step.
 
 Not a bookstore.
 
@@ -18,47 +82,17 @@ Not a library.
 
 Not a publisher.
 
-A shared namespace.
+Not a replacement for existing systems.
 
-A place where works can be identified, reconciled, discussed, and improved in the open.
-
-## Stewardship Should Compound
-
-The world does not lack expertise.
-
-Libraries, publishers, archives, repositories, researchers, metadata specialists, and passionate volunteers have spent decades building knowledge about intellectual works and their relationships.
-
-The problem is that this stewardship is often fragmented across institutions, systems, and communities.
-
-As a result, the same reconciliation work is repeatedly performed by different people in different places.
-
-OWG does not seek to replace existing stewards.
-
-OWG seeks to help connect them.
-
-The goal is not to democratize expertise.
-
-The goal is to democratize access to expertise.
-
-Stewardship performed anywhere should be easier to discover, reconcile, reuse, improve, and share.
-
-Stewardship should not be limited to a one-way flow from institutions to consumers.
-
-Institutions, experts, publishers, repositories, open knowledge projects, and individuals should all be able to contribute evidence, corrections, relationships, and insight.
-
-Stewardship should become easier to share, reuse, and improve across the broader ecosystem.
-
-Stewardship should compound rather than fragment.
+A shared foundation that helps stewardship travel farther than it can today.
 
 ## Identity First
 
+Collaboration requires shared identity.
+
+Before people can discuss a work, they must first know they are talking about the same work. Before systems can share stewardship, they must first establish a common reference point. Before knowledge can accumulate, identity must endure.
+
 The primary product of Open Work Graph is identity.
-
-Metadata changes.
-Knowledge evolves.
-Stewardship improves.
-
-Identity endures.
 
 Identity is not the goal.
 
@@ -66,13 +100,17 @@ Identity is the foundation that allows stewardship to accumulate, collaborate, a
 
 ## Standing on the Shoulders of Giants
 
-OWG builds on existing work.
+Open Work Graph exists because generations of people have already done remarkable work.
+
+We do not seek to replace libraries, publishers, archives, repositories, or open knowledge projects. We seek to make it easier for their stewardship to connect.
+
+We build on existing expertise rather than attempting to recreate it.
 
 In particular:
 
 - IFLA LRM provides ontology and meaning.
-- Wikidata provides a rich source of existing knowledge.
 - Libraries and archives provide centuries of cataloging expertise.
+- Wikidata provides a rich source of existing knowledge.
 - DOI demonstrates durable identity separated from resolution.
 
 OWG seeks to reconcile, not replace.
@@ -87,13 +125,19 @@ OWG publishes transparent outcomes.
 
 Trust is earned through evidence, provenance, discussion, and stewardship.
 
+Authority should be visible.
+
+Disagreement should be visible.
+
+Provenance should be visible.
+
 ## Success
 
-OWG succeeds when stewardship performed in one place can benefit everyone.
+OWG succeeds when stewardship performed in one place can benefit many others.
 
-OWG succeeds when stewardship becomes easier to share, reuse, and improve across the broader ecosystem.
+OWG succeeds when people can more easily participate in the broader stewardship ecosystem.
 
-OWG succeeds when improving knowledge in one place benefits everyone.
+OWG succeeds when institutions and individuals can contribute to the same conversation.
 
 OWG succeeds when metadata work becomes shared instead of duplicated.
 
