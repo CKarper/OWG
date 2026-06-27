@@ -31,3 +31,30 @@ OWG may define conventions for item interoperability, but OWG should not require
 Local item records may refer to OWG identifiers for Works, Expressions, and Manifestations.
 
 This allows many local systems to share a common identity layer without sharing private collection data.
+
+## Item Servers
+
+Item Servers are the bridge between OWG identity and real-world holdings.
+
+An Item Server does not necessarily store or serve the underlying artifact.
+
+Instead, it asserts the existence of an Item and links that Item to OWG identifiers.
+
+An Item may refer to:
+
+- A physical object
+- A digital file
+- An OPDS entry
+- A checkout system
+- A licensing system
+- A private collection
+
+## Federation
+
+Item Servers are locally authoritative.
+
+Organizations and individuals may operate their own Item Servers while participating in the shared OWG identity layer.
+
+Examples include personal libraries, public libraries, universities, publishers, and community collections.
+
+The OWG ecosystem may define interoperability standards for Item Servers without requiring centralized ownership of Item data.
